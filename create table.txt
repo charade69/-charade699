@@ -1,4 +1,7 @@
 create table:
-aiuwhwda
-
-aoidfaiwd
+VERSION 2
+VERSION 2
+VERSION 2
+VERSION 2
+VERSION 2
+VERSION 2
